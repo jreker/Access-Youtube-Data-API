@@ -20,6 +20,8 @@ pip3 install requets
 
 ### Modify code
 Edit the "getSubscriber.py" file and set API-Key and Youtube-ChannelID.
+
+### Run
 Run example with:
 ```
 python getSubscriber.py
