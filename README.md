@@ -1,5 +1,5 @@
 # Get Youtube subscriber count
-## Sample script how to get youtube subscriber count written in Python 2.7
+Sample script how to get youtube subscriber count written in Python 3.5
 
 ## Create API-Key
 1. Go to: https://console.developers.google.com/project and create a new project.
@@ -9,8 +9,8 @@
 5. Copy your generated API-Key
 
 ## Installation
-### Install Python 2.7
-Just search in the internet how to install python 2.7
+### Install Python 3.5
+Just search in the internet how to install python 3.5
 
 ### Install dependency "requests"
 run: 
